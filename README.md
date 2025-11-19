@@ -3,7 +3,7 @@
 ## I'm a Backend Developer .NET (Still learning)!!
 
 - 🔭 Check out my projects on GitHub!
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Build amazing backend systems!!
 - ⚡ Fun fact: I love coding and learning new tech
@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DHaFniPKh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-elazab-68412b342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-elazab-68412b342/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssef-sameh4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/youssef_elazab_?igsh=b2FyZDFrMzlpYzZu)
 
@@ -33,4 +33,3 @@
 ### 📕 Latest Projects
 
 Check out my GitHub for all projects: [Youssef Sameh GitHub](https://github.com/youssef-sameh4)
-
