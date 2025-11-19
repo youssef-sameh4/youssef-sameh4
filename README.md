@@ -1,11 +1,19 @@
 <h1 align="center">Hi, I'm Youssef Sameh 👋</h1>
-<h3 align="center">Backend .NET Developer ⚡ | C# Enthusiast 🧠 | Problem Solver 💻</h3>
+<h3 align="center">Backend .NET Developer ⚡ | C# Enthusiast 🧠 | Clean Code Lover 💻</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/youssef_elazab_?igsh=b2FyZDFrMzlpYzZu"><img src="https://img.shields.io/badge/@youssef_elazab_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/youssef-elazab-68412b342"><img src="https://img.shields.io/badge/Youssef%20Sameh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/share/1DHaFniPKh/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://github.com/youssef-sameh4"><img src="https://img.shields.io/badge/GitHub-youssef--sameh4-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/youssef_elazab_?igsh=b2FyZDFrMzlpYzZu">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/youssef-elazab-68412b342">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/share/1DHaFniPKh/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/youssef-sameh4">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -14,11 +22,19 @@
 
 ## 🚀 About Me
 
+I'm **Youssef Sameh**, a passionate **Backend .NET Developer** who loves building  
+clean, scalable, and efficient backend systems. I enjoy solving complex problems,  
+designing APIs, working with SQL databases, and applying solid software engineering  
+principles like **OOP**, **SOLID**, and **Clean Architecture**.
+
+I believe good backend development is all about writing **clean code**, maintaining  
+simple architecture, and understanding how things work behind the scenes.
+
 ```cs
 class YoussefSameh {
-    string role = "Backend .NET Developer";
-    string language = "C#, SQL";
-    List<string> skills = [
+    string Role = "Backend .NET Developer";
+    string Focus = "Building clean, scalable backend systems";
+    List<string> Skills = [
         "C#",
         "C++",
         "OOP Concepts",
@@ -28,30 +44,30 @@ class YoussefSameh {
     ];
 }
 🔥 Highlights
-💻 Passionate about building clean backend architectures
+💻 Experience building backend APIs using .NET Core
 
-🔍 Strong understanding of OOP & problem-solving
+🧠 Strong foundation in OOP & problem-solving
 
-🧱 Experienced in .NET Core and REST APIs
+🗄️ Skilled with SQL Server & database structure
 
-🗄️ Working with SQL Server & database design
+⚙️ Using Git & GitHub for clean workflows
 
-⚙️ Love using Git & GitHub for clean workflow
-
-🎯 Always learning and improving my backend skills
+📚 Always learning backend best practices
 
 🧰 Tech Toolbox
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,sqlite,git,github,vscode" /> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=youssef-sameh4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-sameh4&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
-⚡️ What I’m Learning Now
-🔥 .NET Core advanced concepts
+📘 What I’m Learning Now
+⭐ Advanced .NET Core
 
-🧩 Entity Framework Core
+⭐ Entity Framework Core
 
-📦 Clean Architecture & SOLID
+⭐ SOLID Principles
 
-🚀 API Development with best practices
+⭐ Clean Architecture
+
+⭐ REST API Best Practices
 
 ⚡️ Motto
 “Code it clean, build it strong.”
