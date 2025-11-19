@@ -1,6 +1,7 @@
+
 # Hi there, I'm Youssef Sameh 👋
 
-## I'm a Backend Developer .NET!!
+## I'm a Backend Developer .NET (Still learning)!!
 
 - 🔭 Check out my projects on GitHub!
 - 🌱 I’m currently learning everything 
@@ -20,7 +21,8 @@
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="SQL Server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="OOP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 
 <br />
 <br />
@@ -30,4 +32,3 @@
 ### 📕 Latest Projects
 
 Check out my GitHub for all projects: [Youssef Sameh GitHub](https://github.com/youssef-sameh4)
-
