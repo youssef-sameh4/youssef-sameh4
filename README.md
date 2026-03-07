@@ -2,10 +2,10 @@
 
 ## I'm a Backend Developer .NET (Still learning)!!
 
-- 🔭 Check out my projects on GitHub!
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2025 Goals: Build amazing backend systems!!
+- Check out my projects on GitHub!
+- I’m currently learning everything 
+-  I’m looking to collaborate with other developers
+- 2025 Goals: Build amazing backend systems!!
 - ⚡ Fun fact: I love coding and learning new tech
 
 ### Connect with me:
