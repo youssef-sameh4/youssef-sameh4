@@ -2,9 +2,9 @@
 
 ## 🚀 ASP.NET Core Backend Developer
 
-I'm a passionate **Backend Developer** specializing in **ASP.NET Core** and **C#**. I enjoy building scalable web applications, RESTful APIs, and solving real-world problems through clean and maintainable code.
+I'm a passionate **Backend Developer** specializing in **ASP.NET Core** and **C#**. I enjoy building scalable web applications, RESTful APIs, and solving real-world problems through clean, maintainable, and efficient code.
 
-Currently focused on improving my skills in **Backend Development**, **Software Architecture**, and **System Design** while building practical projects.
+Currently focused on expanding my knowledge in **Backend Development**, **Software Architecture**, **System Design**, and modern .NET technologies.
 
 ---
 
@@ -13,13 +13,13 @@ Currently focused on improving my skills in **Backend Development**, **Software 
 - 🎓 Information Technology Student at Mansoura University
 - 💙 Passionate about Backend Development
 - 🌱 Currently learning **Advanced ASP.NET Core**, **Clean Architecture**, and **Design Patterns**
-- 🔥 Building real-world projects using .NET
+- 🚀 Building real-world backend applications using .NET
 - 🧩 Solved **100+** Data Structures & Algorithms problems on LeetCode
 - 🤝 Open to Internship and Junior Backend Developer opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -69,79 +69,16 @@ Currently focused on improving my skills in **Backend Development**, **Software 
 
 ---
 
-# 🚀 Featured Projects
-
-## 📚 BulkyBook - E-Commerce Bookstore
-
-Full-stack ASP.NET Core MVC application featuring:
-
-- ASP.NET Core Identity
-- Repository Pattern
-- Unit of Work
-- Stripe Payments
-- MailJet Integration
-- SQL Server
-- Entity Framework Core
-
----
-
-## 🎮 Game Zone
-
-ASP.NET Core MVC application for managing games.
-
-Features:
-
-- CRUD Operations
-- Image Upload
-- Many-to-Many Relationships
-- Layered Architecture
-- Entity Framework Core
-
----
-
-## 📖 Library Management System
-
-Console application built with:
-
-- C#
-- Entity Framework Core
-- SQL Server
-- LINQ
-
-Features:
-
-- Borrowing System
-- Reservations
-- Reviews
-- Fine Calculation
-
----
-
-## 💳 Task Management API
-
-RESTful API built with:
-
-- ASP.NET Core Web API
-- JWT Authentication
-- ASP.NET Identity
-- Entity Framework Core
-- SQL Server
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=youssef-sameh4&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-sameh4&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-elazab-68412b342)
 
@@ -149,20 +86,18 @@ RESTful API built with:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DHaFniPKh/)
-
 ---
 
-## 📈 2026 Goals
+# 🎯 2026 Goals
 
 - Master ASP.NET Core
 - Learn Microservices
 - Learn Docker & Kubernetes
 - Learn Azure
-- Build Production-Level Backend Systems
+- Build Production-Ready Backend Systems
 - Contribute to Open Source
 - Solve 300+ LeetCode Problems
 
 ---
 
-⭐ If you like my projects, don't forget to give them a Star!
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
