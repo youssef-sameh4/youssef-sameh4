@@ -1,40 +1,168 @@
-# Hi there, I'm Youssef Sameh 👋
+# 👋 Hi, I'm Youssef Sameh
 
-## I'm a Backend Developer .NET (Still learning)!!
+## 🚀 ASP.NET Core Backend Developer
 
-- Check out my projects on GitHub!
-- I’m currently learning everything 
--  I’m looking to collaborate with other developers
-- 2025 Goals: Build amazing backend systems!!
-- ⚡ Fun fact: I love coding and learning new tech
+I'm a passionate **Backend Developer** specializing in **ASP.NET Core** and **C#**. I enjoy building scalable web applications, RESTful APIs, and solving real-world problems through clean and maintainable code.
 
-### Connect with me:
+Currently focused on improving my skills in **Backend Development**, **Software Architecture**, and **System Design** while building practical projects.
 
-[![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DHaFniPKh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-elazab-68412b342/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssef-sameh4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/youssef_elazab_?igsh=b2FyZDFrMzlpYzZu)
-
-### Languages and Tools:
-
-<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-<img align="left" alt="SQL Server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-
-<img align="left" alt="LINQ" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
-
-<img align="left" alt="Entity Framework Core" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
-
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<br />
-<br />
 ---
 
-### 📕 Latest Projects
+## 💻 About Me
 
-Check out my GitHub for all projects: [Youssef Sameh GitHub](https://github.com/youssef-sameh4)
+- 🎓 Information Technology Student at Mansoura University
+- 💙 Passionate about Backend Development
+- 🌱 Currently learning **Advanced ASP.NET Core**, **Clean Architecture**, and **Design Patterns**
+- 🔥 Building real-world projects using .NET
+- 🧩 Solved **100+** Data Structures & Algorithms problems on LeetCode
+- 🤝 Open to Internship and Junior Backend Developer opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+### Backend
+
+- ASP.NET Core
+- ASP.NET Core MVC
+- ASP.NET Core Web API
+- Entity Framework Core
+- LINQ
+- ASP.NET Identity
+- JWT Authentication
+- RESTful APIs
+
+### Database
+
+- SQL Server
+
+### Software Engineering
+
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Repository Pattern
+- Unit of Work
+- Dependency Injection
+- Clean Architecture
+- Design Patterns
+
+### Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/>
+</p>
+
+- Postman
+- Swagger
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 BulkyBook - E-Commerce Bookstore
+
+Full-stack ASP.NET Core MVC application featuring:
+
+- ASP.NET Core Identity
+- Repository Pattern
+- Unit of Work
+- Stripe Payments
+- MailJet Integration
+- SQL Server
+- Entity Framework Core
+
+---
+
+## 🎮 Game Zone
+
+ASP.NET Core MVC application for managing games.
+
+Features:
+
+- CRUD Operations
+- Image Upload
+- Many-to-Many Relationships
+- Layered Architecture
+- Entity Framework Core
+
+---
+
+## 📖 Library Management System
+
+Console application built with:
+
+- C#
+- Entity Framework Core
+- SQL Server
+- LINQ
+
+Features:
+
+- Borrowing System
+- Reservations
+- Reviews
+- Fine Calculation
+
+---
+
+## 💳 Task Management API
+
+RESTful API built with:
+
+- ASP.NET Core Web API
+- JWT Authentication
+- ASP.NET Identity
+- Entity Framework Core
+- SQL Server
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=youssef-sameh4&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-sameh4&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-elazab-68412b342)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssef-sameh4)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DHaFniPKh/)
+
+---
+
+## 📈 2026 Goals
+
+- Master ASP.NET Core
+- Learn Microservices
+- Learn Docker & Kubernetes
+- Learn Azure
+- Build Production-Level Backend Systems
+- Contribute to Open Source
+- Solve 300+ LeetCode Problems
+
+---
+
+⭐ If you like my projects, don't forget to give them a Star!
